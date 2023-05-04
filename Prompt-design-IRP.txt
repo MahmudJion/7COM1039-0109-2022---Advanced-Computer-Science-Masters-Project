@@ -1,0 +1,63 @@
+Act as an academic researcher, here is the master's project topic "Comparative study of cryptography algorithms and its’ applications."  now write a interim progress report based on this format
+
+3.2.1 Section 1: Introduction and overview
+It is suggested that this section should be about 2-3 pages long in total, and you may add any
+appropriate section or sub-section headings you wish to this list. You may reuse parts of your
+Detailed Project Proposal (DPP) if appropriate [and in turn you may re-use parts of the Interim
+Progress Report (IPR) in your final report]. Describe the research question your project sets
+out to address as well as your proposed practical investigation. Describe any technical work
+that you are undertaking as part of that investigation, such as the construction of data-sets or
+software/hardware apparatus. Say what tools and techniques you are using for your
+investigation, experimentation, and evaluation of your work. You should list the specific
+deliverables you intend to produce during your project: design, documents, programs,
+questionnaires, databases, test plans, experimental designs, results, etc.
+
+3.2.2 Section 2: Progress to date
+It is suggested that you write about 2-3 pages and add an appropriate section heading and any
+necessary sub-headings. Describe the progress you have made so far i.e. what you have done.
+Be specific. Problems encountered or anticipated and steps taken/to be taken to solve them.
+Explain the supporting evidence you can provide for the work you have done, the documents
+that demonstrate your achievements, and include these documents as appendices.
+
+3.2.3 Section 3: Planned work
+This section is expected to be about half to one page in length. Again, add an appropriate
+section heading and any necessary sub-headings. List the major tasks that need to be completed
+for the project to be a success, from start to finish (including any you have already completed)
+with target completion dates. Explain what each task means and what deliverables it will
+produce. Say how you will judge the quality of your project work and how you intend to
+evaluate the process through which you have gone. Don't forget to include time for writing up
+the final report and preparing for the demonstration/presentation after submission.
+
+3.2.4 Bibliography
+List any sources that you cite in your report. You should also list any sources that you have
+used, even if not cited directly. Use the Harvard system for your in-text citations, and for your
+references, producing one list, ordered by author surname (whether the material is drawn from
+books, journals, web pages, forums or blogs, or is a piece of software).
+
+3.2.5 Appendices
+Include supporting evidence as appendices to your report. These should be numbered
+(Appendix 1, Appendix 2 etc.) and each should start on a new page and be given a title. Your
+tutor is not required to read the appendices but may refer to them for evidence to back up your
+claims.
+Typically, appendices will include evidence of design, investigative or practical work (e.g.
+formal specifications, code, questionnaires, and so on). At this stage, it will mostly be workin-progress, and it is fine for this to be handwritten. You may scan documents and include them
+with your submission if you wish; but you may not wish not to spend too much time on tasks
+like scanning handwriting notes. Instead, you could take the materials to your next project
+meeting so that your supervisor is aware of the progress you have made.
+
+remember final report date is august  28 2023
+
+Give me planned work date as project start from February 2023
+
+Give Bibliography Use the Harvard system for your in-text citations, and for your
+references, producing one list, ordered by author surname (whether the material is drawn from
+books, journals, web pages, forums or blogs, or is a piece of software)
+
+Include supporting evidence as appendices to your report. These should be numbered
+(Appendix 1, Appendix 2 etc.) and each should start on a new page and be given a title. Your
+tutor is not required to read the appendices but may refer to them for evidence to back up your
+claims.
+
+Get insights from this paper as reference and add advanced research to this
+
+https://d1wqtxts1xzle7.cloudfront.net/64654930/3Vol7No5-libre.pdf?1602480428=&response-content-disposition=inline%3B+filename%3DComparative_Study_of_Cryptography_Algori.pdf&Expires=1682979872&Signature=gNQIX1bcmiNWhMLdUjMy7aWOwdSd~FPnwvtEEUvmqkRSmm4rYFH9FL-4K74NSVsjjeML8WdMD0u19tipTIzQ6yHdMEuknBCsmfHOQCxH7UDLAbmIIg~LnqbviEW2y6PWdtqyF17KI1F75tRPONgR3JogmfBpck-VYtkVYLYdVpC-Vl3i4rS5-OCZIq3zIrZQOFNQSchLE3NnNtBBPXFo2cYMkRIt2ETMkEog2e7D72dRAJn2T6bcg1hKMTgnCTqy14Ma6hKVFYOfE9DyyeXwupMCNTafCPVb1xdr5yW1QgAh~09J-vCDMOlm~5Pms85DT~6it7s~a8Lk75D0BdomzQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA 
