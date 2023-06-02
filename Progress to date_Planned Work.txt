@@ -1,0 +1,23 @@
+Progress to date
+
+As of May 1st, 2023, we have made the following progress:
+
+1. Completed a literature review on different types of cryptography algorithms and their characteristics.
+2. Compiled a data set of different algorithms and their characteristics.
+3. Designed and implemented the software to evaluate these algorithms.
+4. Developed a test plan and conducted preliminary tests.
+
+We encountered some challenges in designing the software, particularly in integrating multiple algorithms into a single program. However, we were able to overcome these challenges through iterative design and testing. 
+
+The supporting evidence for our work includes the literature review and the data set we have compiled, as well as the documentation and code for the software.
+
+Planned work
+
+The major tasks that need to be completed for the project to be a success, from start to finish (including any you have already completed) with target completion dates are as follows:
+
+1. Complete testing of all algorithms and analyze the results (June 2023).
+2. Write a report on the different types of cryptography algorithms and their characteristics (July 2023).
+3. Complete documentation on the design and implementation of the software (August 2023).
+4. Prepare for the demonstration/presentation (August 2023).
+
+We will judge the quality of our project work based on the completeness and accuracy of our results and the quality of our documentation. We intend to evaluate the process through which we have gone by reflecting on our challenges and successes in the final report.
