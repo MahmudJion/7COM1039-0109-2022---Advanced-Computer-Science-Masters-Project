@@ -32,6 +32,7 @@ Individual
 Written feedback from the project supervisor and/or via discussions with your project supervisor during project meetings.
 
 5%
+
 Final Project Report (FPR) & Referral FPR
 
 --> 28.8.2023
