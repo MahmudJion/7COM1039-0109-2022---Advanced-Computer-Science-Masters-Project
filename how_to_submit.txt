@@ -88,3 +88,46 @@ Courier).
 after each paragraph.
 • Margins: at least 20 mm left and right; 25 mm top and bottom.
 • Pages should be numbered in one continuous sequence.
+
+
+Project Demonstration:
+You must give a live demonstration of your work to your supervisor and second marker who
+will ask questions about your work. This demonstration is part of the formal assessment process
+and counts 20% of your final project mark. It is your responsibility to agree a time and date for
+this with your supervisor (who would contact the 2nd marker on your behalf). It should
+normally take place after both markers have assessed the report and you must arrive on time
+and be well-prepared for your demonstration.
+Please consider the following project demonstration guide:
+1. All students are required to give a demonstration or other presentation of the work they
+have produced for their project. You will have 10 minutes to show your work. If you
+go on longer than 10 minutes you may be interrupted. Then there will be 10 minutes
+for answering questions. The time is very short so you will need to plan and should
+discuss how best to present your work with your project supervisor. Please do not
+attempt to do a PowerPoint presentation telling us about what you did: you need
+to show us the actual work. Suppose, for example, that the main deliverable from your
+project consists of an extensive set of test results and analysis of those results. We
+would not want to be told what you did, we would want you to present the actual results,
+and talk us through them.MSc Project Handbook
+16
+2. The assessment will be carried out by your supervisor and the second marker for your
+project, who will both attend your demonstration.
+3. Subject to Covid rules, you may use one of the university computers (please make sure
+the lab is going to be free at the arranged time for your presentation beforehand) or your
+own laptop.
+4. We cannot provide networking facilities for your laptop machine beyond what is
+normally available in the area where your demonstration takes place. But in general, it
+is perfectly acceptable to demonstrate a networking, client-server or web-based project
+using the loopback address 127.0.0.1 (localhost). If one or two features (such as
+automated email to another machine) cannot be demonstrated for sound technical
+reasons that is unlikely to be a problem unless they are at the core of your system.
+5. [NOTE - THIS IS SUBJECT TO VID REGULATIONS] If you need to use specialist
+software that is not installed in the general laboratory area then you could consider to
+approach Library and Computing Services Helpdesk about getting the software
+installed on one of the UH machines. THIS NEEDS TO BE DONE AS SOON AS
+POSSIBLE. Please be aware, however, that we cannot permit the installation of
+software for which neither we, nor you, have a valid license (if the software is being
+installed under your license you will be asked to prove that you have one).
+6. If you miss the demonstration this is like missing an examination. If there is a good
+reason for missing the appointment for your demonstration, there may be an opportunity
+to reschedule the demo, but if this happens you will need valid and documented serious
+adverse circumstances (SAC) presented to the Board of Examiners in the usual way.
