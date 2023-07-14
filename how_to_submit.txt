@@ -72,3 +72,19 @@ All work (for example; questionnaires, interviews, and consulting etc) with huma
 For postgraduate modules:
 a score of 50% or above represents a pass mark.
 late submission of any item of coursework for each day or part thereof (or for hard copy submission only, working day or part thereof) for up to five days after the published deadline, coursework relating to modules at Level 7 submitted late (including deferred coursework, but with the exception of referred coursework), will have the numeric grade reduced by 10 grade points until or unless the numeric grade reaches or is 50. Where the numeric grade awarded for the assessment is less than 50, no lateness penalty will be applied.
+
+
+FPR report presentation:
+The report should be prepared as follows:
+• Approximately 10,000 words in length
+• The bibliography and appendices are not included in the word length.
+• Do not use the cover sheet (So NO assignment briefing sheet).
+• The same font should be used throughout. We would prefer you to use 12-point Times,
+though any reasonable alternative (such as Arial) will be accepted, (except for
+mathematical formulae, where you may use whichever font is most appropriate, and
+program code examples, where you should use a non-proportional font such as
+Courier).
+• Lines should be single-spaced, with between 1/2 a line and a whole line of extra space
+after each paragraph.
+• Margins: at least 20 mm left and right; 25 mm top and bottom.
+• Pages should be numbered in one continuous sequence.
