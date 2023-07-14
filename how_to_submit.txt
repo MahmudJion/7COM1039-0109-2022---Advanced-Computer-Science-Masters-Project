@@ -1,0 +1,74 @@
+Assignment Tasks:
+
+You should have done about 600 hours of effort by the time you submit your project report.  This assignment is worth 95% of the overall assessment for the module; the 300 hours of effort quoted relates primarily to the collation, writing and editing of the report and supporting documents, and the preparation and time were given to a demonstration and face to face discussion of your work with your assessors.
+
+You should be aware from the outset that the report and your explanation of your work is the primary evidence used in the assessment, and it is the assessment of your abilities to conduct and deliver a project that is key.  Any software product or model or artefact that you may have produced during your project is not the main focus of the assessment.  In an extreme case, a student that submits a well-crafted piece of work, but fails to submit a report into how it was produced, will fail.  The project module is about assessing your abilities as a student in your discipline area.
+
+As a guide, taken together, the report should be about 10,000 words in length.  The bibliography and appendices are not included in the word length.
+
+You need to include your student ID number, name and your supervisor’s name on the first page of your report.
+
+IMPORTANT: Please TYPE the following Declaration to your final report:
+
+MSc Final Project DeclarationDownload MSc Final Project Declaration
+
+You could change the format/layout to suit your report but please place it before the Contents page.
+
+Demonstration
+
+You must give a demonstration of your work to your supervisor and second marker and answer questions from them about your work.  This demonstration is part of the formal assessment process and counts 20% of your FPR mark.  It is your responsibility to agree on a time and date for this with your supervisor (and the 2nd marker), and to turn up on time (and be prepared) for your demonstration. It should normally take place AFTER your FPR submission, though some may be prepared to do this before the submission deadline.
+
+Please check the MSc Project Handbook for guidance on how to structure your final project report and how to prepare for your demonstration.
+
+Submission Requirements:
+
+FPR Submission (to Canvas) deadline: Monday 28th August 2023 at 23:59 (UK local time)
+Demonstration deadline: Wednesday 20th September 2023
+When you are ready to submit your report, convert it (and any accompanying documents) into a single document file (suggested format: .docx, pdf or .odt) for FPR;
+You need to submit your artefact as well. This can be in the appendix of your report or as another plain text document file for your code (if you don't wish to put them into the same document as the FPR).
+
+Suggested file types for the submission:
+
+Microsoft Word (.doc/.docx)
+OpenOffice Text (.odt)
+PDF (.pdf)
+You must NOT submit your code as images or screenshots, all code should be submitted in plain text format.
+
+You are free to send any program files, zipped files to your markers via emails but only the Canvas submission will be marked.
+
+Marks will be deducted if you do not follow these simple instructions.
+
+The Final Project Report (FPR) has online submission ONLY.
+
+A live demonstration of your work is commencing after your FPR submission and by the demonstration deadline above.
+
+Marks awarded for:
+
+This assignment is worth 95% of the overall assessment for this module
+
+100 marks in total are awarded in the categories below.
+
+Specification of the project (5 marks)
+Research (20 marks)
+Methodology (20 marks)
+Quality and Results (20 marks)
+Evaluation and Conclusions (10 marks)
+Presentation and References (5 marks)
+Demonstration (20 marks)
+The details of the distribution of marks in each category are listed in the Assessment Form
+(see MSc Project Handbook).
+
+Please also see details in the MSc Project Marking Schema (FPR) Download MSc Project Marking Schema (FPR).
+
+Type of Feedback to be given for this assignment:
+
+Feedback will be in the form of a final grade via Student Record (https://www.studentrecord.herts.ac.ukLinks to an external site.) AFTER the module board and comments from your markers.
+
+Additional information:
+
+Regulations governing assessment offences including Plagiarism and Collusion are available from https://www.herts.ac.uk/__data/assets/pdf_file/0007/237625/AS14-Apx3-Academic-Misconduct.pdfLinks to an external site. (UPR AS14).
+Guidance on avoiding plagiarism can be found here: https://herts.instructure.com/courses/61421/pages/referencing-avoiding-plagiarism?module_item_id=779436
+All work (for example; questionnaires, interviews, and consulting etc) with human subjects (any human; including peers, family and friends etc) must obtain UH ethical clearance before the work commences.  Failure to gain clearance is  treated as academic misconduct and could lead to the failure of the project
+For postgraduate modules:
+a score of 50% or above represents a pass mark.
+late submission of any item of coursework for each day or part thereof (or for hard copy submission only, working day or part thereof) for up to five days after the published deadline, coursework relating to modules at Level 7 submitted late (including deferred coursework, but with the exception of referred coursework), will have the numeric grade reduced by 10 grade points until or unless the numeric grade reaches or is 50. Where the numeric grade awarded for the assessment is less than 50, no lateness penalty will be applied.
