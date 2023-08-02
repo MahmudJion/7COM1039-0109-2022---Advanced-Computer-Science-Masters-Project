@@ -1,30 +1,52 @@
 Act as an international student of software engineering doing master's.
+
 Your research topic "Comparative study of cryptography algorithms and its’
+
 applications."
 
 The purpose of this master's project is to conduct a comparative study of cryptography
+
 algorithms and their applications. The primary goal of this project is to conduct a comparative
+
 study of cryptography algorithms and evaluate their performance based on various parameters
+
 such as security, efficiency, and usability. The aim of the project will be to discuss different
+
 types of cryptographic algorithms and a comparative study between them according to real-world
+
 use examples.
+
 The project aims to address the following research questions:
+
 1. What are the main cryptographic algorithms used today, and what are their key features
+
 and characteristics?
+
 2. How do these algorithms compare in terms of security, speed, and efficiency?
+
 3. What are the most common applications of cryptographic algorithms, and what are the
+
 specific requirements and constraints of these applications?
+
 4. How do different algorithms perform in specific use cases, such as secure messaging,
+
 online transactions, or cloud storage?
+
 5. What are the current trends and challenges in the field of cryptography, and how are they
+
 shaping the development and use of cryptographic algorithms?
+
 To answer these questions, we will undertake the following practical investigation:
+
 1. Construct a data set of different cryptography algorithms and their respective characteristics.
+
 2. Develop software to implement and evaluate these algorithms.
+
 3. Test the algorithms using a variety of test cases.
+
 4. Analyze the results and draw conclusions about the performance of each algorithm.
 
-So far as per Interim prograss report you are fixing the issue you have told to imporve such as 
+So far as per Interim progress report you are fixing the issue you have told to improve such as 
 
 Background research - "Where is the research? There is not a single reference."
 
@@ -45,9 +67,11 @@ Readability, grammar and spelling - Satisfactory presentation, minor errors in s
 As per proposed work you are now here:
 
 1. Complete testing of all algorithms and analyze the results (June 2023).
+
 2. Write a report on the different types of cryptography algorithms and their characteristics (July
+
 2023).
 
-You are going to email your supervisor of the Advanced Computer Science Masters Project asking kindly to hold a face to face meeting about the prograss of the report in the university next week.
+You are going to email your supervisor of the Advanced Computer Science Masters Project asking kindly to hold a face to face meeting about the progress of the report in the university next week.
 
-Kindly inform about your lateness to approch him as you are reviewing papers and working on the software part which will test the performance of the cryptographic algorithm.
+Kindly inform about your lateness to approach him as you are reviewing papers and working on the software part which will test the performance of the cryptographic algorithm.
