@@ -15,30 +15,14 @@ It has to be investigative, you will probably learn and apply new skills, and yo
 Module leader: Bente Riegler (email: b.riegler@herts.ac.uk)
 
 
-
-## Assessment Overview
+# Assignments for the Module
 
 There are two summative assignments on this module, as outlined below. The assignments are carefully designed to provide you with opportunities to apply and demonstrate what you have learned. The details for each assignment (including submission dates) are provided in the Assignments section. This is a pass overall module.
 
-Assignment Title Individual or Group Type of assignment and feedback provided % of module grade
+## Assignment Details
 
-Assignment Title	Submission deadline	Individual or Group	Type of assignment and feedback provided % of module grade Interim Progress Report (IPR)
+| Assignment Title                     | Submission deadline      | Individual or Group | Type of assignment and feedback provided                                                                  | % of module grade |
+|--------------------------------------|--------------------------|---------------------|-----------------------------------------------------------------------------------------------------------------|------------------|
+| Interim Progress Report (IPR)         | 1.5.2023 [by 23:59 UK time] | Individual          | Written feedback from the project supervisor and/or via discussions with your project supervisor during project meetings. | 5%               |
+| Final Project Report (FPR) & Referral FPR | 28.8.2023 [by 23:59 UK time] | Individual          | Feedback will be in the form of a final grade via [Student Record](https://www.studentrecord.herts.ac.uk) and comments from your markers.               | 95%              |
 
-
---> 1.5.2023
-[by 23:59 UK time]
-
-Individual
-Written feedback from the project supervisor and/or via discussions with your project supervisor during project meetings.
-
-5%
-
-Final Project Report (FPR) & Referral FPR
-
---> 28.8.2023
-[by 23:59 UK time]
-
-Individual
-Feedback will be in the form of a final grade via Student Record (https://www.studentrecord.herts.ac.uk (Links to an external site.)) and comments from your markers.
-
-95%
