@@ -1,0 +1,13 @@
+Alrammahi, Maghrib & Kaur, Harleen. (2014). Development of Advanced Encryption Standard (AES) Cryptography Algorithm for Wi-Fi Security Protocol. 10.13140/RG.2.2.20993.97124. 
+
+Albermany, Salah & Amer, Duha & Kamal, Sawsan. (2018). S-RADG: A stream cipher RADG cryptography. Journal of Engineering and Applied Sciences. 13. 10.3923/jeasci.2018.2317.2321. 
+
+https://www.simplilearn.com/tutorials/cryptography-tutorial/rsa-algorithm
+
+Tran, Thi Hong & Hoai Luan, Pham & Nakashima, Yasuhiko. (2021). A High-Performance Multimem SHA-256 Accelerator for Society 5.0. IEEE Access. PP. 1-1. 10.1109/ACCESS.2021.3063485. 
+
+Bi Irie guy-cedric, Toa. (2018). A Comparative Study on AES 128 BIT AND AES 256 BIT. INTERNATIONAL JOURNAL OF COMPUTER SCIENCES AND ENGINEERING. volume 6. 30-33. 10.26438/ijsrcse/v6i4.3033. 
+
+Kumar, Ashutosh & Saxena, Deepika & Singh, Ashutosh. (2021). A Cryptography and Machine Learning Based Authentication for Secure Data-Sharing in Federated Cloud Services Environment A Cryptography and Machine Learning Based Authentication for Secure Data-Sharing in Federated Cloud Services Environment. Journal of Applied Security Research. 17. 10.1080/19361610.2020.1870404. 
+
+Paul, Manas & Mandal, Jyotsna. (2023). A Permutative Cipher Technique (PCT) to Enhance the Security of Network Based Transmission. 
