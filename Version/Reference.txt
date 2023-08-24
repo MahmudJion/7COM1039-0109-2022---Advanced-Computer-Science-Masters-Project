@@ -7,3 +7,16 @@ NIST (2015). FIPS PUB 180-4, "Secure Hash Standard (SHS)."
 Krawczyk, H., Bellare, M., & Canetti, R. (1997). "HMAC: Keyed-Hashing for Message Authentication."
 Bernstein, D.J. (2008). "ChaCha, a variant of Salsa20."
 
+Bernstein, D.J. & Lange, T., 2017. Post-Quantum Cryptography. Springer.
+Diffie, W. & Hellman, M.E., 1976. New directions in cryptography. IEEE Transactions on Information Theory, 22(6), pp.644-654.
+Kahn, D., 1967. The Codebreakers. Macmillan.
+Koops, B.J., 2010. Cryptography, Law, and Privacy. In: Encyclopedia of Cryptography and Security. Springer, pp. 324-327.
+Liu, Z. & Wang, L., 2012. A Survey on Empirical Cryptographic Algorithm Evaluation Approaches. Computer Science and Information Technology, 4(1), pp.22-28.
+Menezes, A., van Oorschot, P.C., Vanstone, S.A., 1996. Handbook of Applied Cryptography. CRC Press.
+Nakamoto, S., 2008. Bitcoin: A Peer-to-Peer Electronic Cash System.
+NIST, 2001. Advanced Encryption Standard (AES). Federal Information Processing Standards Publication 197.
+Rescorla, E., 2018. The Transport Layer Security (TLS) Protocol Version 1.3. RFC 8446.
+Rivest, R.L., Shamir, A., Adleman, L., 1978. A method for obtaining digital signatures and public-key cryptosystems. Communications of the ACM, 21(2), pp.120-126.
+Schneier, B., 2003. Beyond Fear: Thinking Sensibly about Security in an Uncertain World. Springer.
+Shor, P.W., 1999. Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer. SIAM Review, 41(2), pp.303-332.
+
