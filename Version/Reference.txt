@@ -101,7 +101,8 @@ Lessig, L., 2006. Code: Version 2.0. Basic Books.
 
 Anderson, R., 2008. Security Engineering: A Guide to Building Dependable Distributed Systems. 2nd ed. Wiley.
 
+Katz, J., & Lindell, Y. (2007). Introduction to Modern Cryptography. Chapman & Hall/CRC.
 
-
+Paar, C., & Pelzl, J. (2009). Understanding cryptography: a textbook for students and practitioners. Springer Science & Business Media.
 
 
