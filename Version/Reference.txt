@@ -1,0 +1,9 @@
+Daemen, J., & Rijmen, V. (2002). "The Design of Rijndael: AES - The Advanced Encryption Standard."
+Koblitz, N. (1987). "Elliptic curve cryptosystems." Mathematics of computation, 48(177), 203-209.
+Miller, V. (1986). "Use of elliptic curves in cryptography."
+Rivest, R.L., Shamir, A., & Adleman, L. (1978). "A method for obtaining digital signatures and public-key cryptosystems."
+Schneier, B. (1996). "Applied Cryptography: Protocols, Algorithms, and Source Code in C."
+NIST (2015). FIPS PUB 180-4, "Secure Hash Standard (SHS)."
+Krawczyk, H., Bellare, M., & Canetti, R. (1997). "HMAC: Keyed-Hashing for Message Authentication."
+Bernstein, D.J. (2008). "ChaCha, a variant of Salsa20."
+
