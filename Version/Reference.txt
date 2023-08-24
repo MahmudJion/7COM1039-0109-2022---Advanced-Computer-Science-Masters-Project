@@ -35,14 +35,73 @@ Kahn, D. (1996). The Codebreakers: The Comprehensive History of Secret Communica
 Singh, S. (1999). The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography. Anchor.
 Hinsley, F. H., & Stripp, A. (eds.) (1993). Codebreakers: The Inside Story of Bletchley Park. Oxford University Press.
 
-
 Stallings, W. (2014). Cryptography and Network Security: Principles and Practice. Pearson.
 Diffie, W., & Hellman, M. (1976). New directions in cryptography. IEEE Transactions on Information Theory, 22(6), 644-654.
 Menezes, A., van Oorschot, P., & Vanstone, S. (1996). Handbook of Applied Cryptography. CRC Press.
 
-
 Kahn, D. (1996). The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet. Scribner.
 Singh, S. (1999). The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography. Anchor.
 Hinsley, F. H., & Stripp, A. (eds.) (1993). Codebreakers: The Inside Story of Bletchley Park. Oxford University Press.
+
+Diffie, W., & Hellman, M. (1976). New directions in cryptography. IEEE Transactions on Information Theory, 22(6), 644-654.
+Stallings, W. (2014). Cryptography and Network Security: Principles and Practice. Pearson.
+Menezes, A., van Oorschot, P., & Vanstone, S. (1996). Handbook of Applied Cryptography. CRC Press.
+
+Biham, E., & Shamir, A. (1993). Differential Cryptanalysis of the Data Encryption Standard. Springer.
+Daemen, J., & Rijmen, V. (2002). The Design of Rijndael: AES - The Advanced Encryption Standard. Springer.
+Rivest, R., Shamir, A., & Adleman, L. (1978). A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. Communications of the ACM, 21(2), 120-126.
+Koblitz, N. (1987). Elliptic Curve Cryptosystems. Mathematics of Computation, 48(177), 203-209.
+Miller, V. S. (1985). Use of Elliptic Curves in Cryptography. Advances in Cryptology, 218-224.
+Wang, X. et al. (2004). Collisions for Hash Functions MD4, MD5, HAVAL-128 and RIPEMD. CRYPTO, 2004.
+NIST. (2015). FIPS PUB 180-4, Secure Hash Standard (SHS). Federal Information Processing Standards Publication.
+
+FIPS. (1977). Data Encryption Standard. Federal Information Processing Standards Publication.
+Biham, E., & Shamir, A. (1993). Differential Cryptanalysis of the Data Encryption Standard. Springer.
+Daemen, J., & Rijmen, V. (2002). The Design of Rijndael: AES - The Advanced Encryption Standard. Springer.
+Schneier, B. (1996). Applied Cryptography. John Wiley & Sons.
+Schneier, B. (1993). Description of a New Variable-Length Key, 64-Bit Block Cipher (Blowfish). Fast Software Encryption, Cambridge Security Workshop.
+Schneier, B., Kelsey, J., Whiting, D., Wagner, D., Hall, C., & Ferguson, N. (1998). Twofish: A 128-Bit Block Cipher. NIST AES Proposal.
+Bernstein, D.J. (2005). Cache-timing attacks on AES. University of Illinois at Chicago.
+
+Rivest, R.L., Shamir, A. & Adleman, L., 1978. A method for obtaining digital signatures and public-key cryptosystems. Communications of the ACM, 21(2), pp.120-126.
+Koblitz, N., 1987. Elliptic curve cryptosystems. Mathematics of computation, 48(177), pp.203-209.
+Miller, V.S., 1986. Use of elliptic curves in cryptography. Advances in Cryptology—CRYPTO’85 Proceedings, pp.417-426.
+Diffie, W. & Hellman, M.E., 1976. New directions in cryptography. IEEE transactions on Information Theory, 22(6), pp.644-654.
+Bernstein, D.J. & Lange, T., 2017. Post-quantum cryptography. Nature, 549(7671), pp.188-194
+
+Merkle, R.C., 1979. Secrecy, authentication, and public key systems. Stanford University.
+Damgård, I., 1989. A design principle for hash functions. Advances in Cryptology—CRYPTO’89 Proceedings, pp.416-427.
+Rivest, R.L., 1992. The MD5 message-digest algorithm. MIT Laboratory for Computer Science and RSA Data Security, Inc.
+National Security Agency, 2001. Secure Hash Standard (SHS). Federal Information Processing Standards Publication, 180-1.
+Bertoni, G., Daemen, J., Peeters, M. & Assche, G.V., 2011. Sponge functions. Ecrypt Hash Workshop 2011.
+Bernstein, D.J., 2009. Post-quantum cryptography—dealing with the fallout of physics success. IACR Cryptology ePrint Archive, 2009, p.85.
+
+Lenstra, A.K., & Verheul, E.R. (2000). Selecting cryptographic key sizes. Journal of Cryptology, 14(4), 255-293.
+Schneier, B. (1996). Applied cryptography: protocols, algorithms, and source code in C. John Wiley & Sons.
+Menezes, A.J., & Van Oorschot, P.C. (1997). Handbook of applied cryptography. CRC press.
+Bernstein, D.J., Lange, T., & Schwabe, P. (2017). The security impact of a new cryptographic library. International Conference on Cryptology and Network Security, 159-176.
+Aumasson, J.P., & Bernstein, D.J. (2012). SipHash: a fast short-input PRF. International Conference on Cryptology in India, 489-508.
+Bernstein, D.J. (2005). The SUPERCOP crypto benchmarking suite.
+
+Diffie, W. and Hellman, M., 1976. New directions in cryptography. IEEE Transactions on Information Theory, 22(6), pp.644-654.
+
+Rivest, R., Shamir, A. and Adleman, L., 1978. A method for obtaining digital signatures and public-key cryptosystems. Communications of the ACM, 21(2), pp.120-126.
+
+Schneier, B., 1996. Applied Cryptography: Protocols, Algorithms, and Source Code in C. 2nd ed. John Wiley & Sons.
+
+Nakamoto, S., 2008. Bitcoin: A Peer-to-Peer Electronic Cash System. [online] Available at: https://bitcoin.org/bitcoin.pdf [Accessed 2 August 2023].
+
+National Institute of Standards and Technology, 2001. Security Requirements for Cryptographic Modules. FIPS PUB 140-2. U.S. Department of Commerce.
+
+Zimmermann, P., 1995. The Official PGP User's Guide. MIT Press.
+
+Green, M. and Miers, I., 2017. Cryptographic Attacks on Bitcoin Wallet Privacy. Journal of Cryptographic Engineering, 7(2), pp.139-150.
+
+Lessig, L., 2006. Code: Version 2.0. Basic Books.
+
+Anderson, R., 2008. Security Engineering: A Guide to Building Dependable Distributed Systems. 2nd ed. Wiley.
+
+
+
 
 
