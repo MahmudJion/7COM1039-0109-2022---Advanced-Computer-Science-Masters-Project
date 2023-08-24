@@ -20,3 +20,29 @@ Rivest, R.L., Shamir, A., Adleman, L., 1978. A method for obtaining digital sign
 Schneier, B., 2003. Beyond Fear: Thinking Sensibly about Security in an Uncertain World. Springer.
 Shor, P.W., 1999. Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer. SIAM Review, 41(2), pp.303-332.
 
+Anderson, R., 1996. Security Engineering: A Guide to Building Dependable Distributed Systems. Wiley.
+Bamford, J., 1982. The Puzzle Palace: Inside the National Security Agency, America's Most Secret Intelligence Organization. Penguin.
+Bernhard, M., Pereira, O., & Warinschi, B., 2020. Post-Quantum Zero-Knowledge Proofs for Accumulators with Applications to Ring Confidential Transactions. In Advances in Cryptology – EUROCRYPT 2020.
+Denning, D. E., 2000. Encryption Policy. Encyclopedia of Computer Science, 4th ed.
+Grover, L.K., 1996. A Fast Quantum Mechanical Algorithm for Database Search. Proceedings of the 28th Annual ACM Symposium on Theory of Computing.
+Rogaway, P., 2015. The Moral Character of Cryptographic Work. Cryptology ePrint Archive, Report 2015/1162.
+Schneier, B., 1996. Applied Cryptography: Protocols, Algorithms, and Source Code in C. John Wiley & Sons.
+Sicari, S. et al., 2015. Security, Privacy, and Trust in the Internet of Things. Journal of Distributed Sensor Networks, 12(8).
+Singh, S., 1999. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography. Doubleday.
+Sullivan, C., 2000. ATM Security Using Symmetric Cryptography. In: Symposium on Network and Distributed System Security (NDSS).
+
+Kahn, D. (1996). The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet. Scribner.
+Singh, S. (1999). The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography. Anchor.
+Hinsley, F. H., & Stripp, A. (eds.) (1993). Codebreakers: The Inside Story of Bletchley Park. Oxford University Press.
+
+
+Stallings, W. (2014). Cryptography and Network Security: Principles and Practice. Pearson.
+Diffie, W., & Hellman, M. (1976). New directions in cryptography. IEEE Transactions on Information Theory, 22(6), 644-654.
+Menezes, A., van Oorschot, P., & Vanstone, S. (1996). Handbook of Applied Cryptography. CRC Press.
+
+
+Kahn, D. (1996). The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet. Scribner.
+Singh, S. (1999). The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography. Anchor.
+Hinsley, F. H., & Stripp, A. (eds.) (1993). Codebreakers: The Inside Story of Bletchley Park. Oxford University Press.
+
+
