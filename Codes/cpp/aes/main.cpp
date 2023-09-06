@@ -1,46 +1,50 @@
 #include <iostream>
-#include <openssl/rsa.h>
-#include <openssl/pem.h>
+#include <openssl/aes.h>
+#include <openssl/rand.h>
 #include <string.h>
 
+// AES encryption function
+void encrypt(const unsigned char* plaintext, int plaintextLength, unsigned char* key, unsigned char* iv, unsigned char* ciphertext) {
+    AES_KEY aesKey;
+    AES_set_encrypt_key(key, 128, &aesKey);
+    AES_cbc_encrypt(plaintext, ciphertext, plaintextLength, &aesKey, iv, AES_ENCRYPT);
+}
+
+// AES decryption function
+void decrypt(const unsigned char* ciphertext, int ciphertextLength, unsigned char* key, unsigned char* iv, unsigned char* plaintext) {
+    AES_KEY aesKey;
+    AES_set_decrypt_key(key, 128, &aesKey);
+    AES_cbc_encrypt(ciphertext, plaintext, ciphertextLength, &aesKey, iv, AES_DECRYPT);
+}
+
 int main() {
-    // Generate RSA Key Pair
-    RSA *rsa_keypair = RSA_generate_key(2048, RSA_F4, nullptr, nullptr);
-    if (!rsa_keypair) {
-        std::cerr << "Error generating RSA key pair." << std::endl;
-        return 1;
-    }
+    unsigned char key[16]; // 128-bit encryption key
+    unsigned char iv[16];  // Initialization Vector (IV)
 
-    // RSA Encryption
-    const char *plaintext = "This is a message to encrypt using RSA.";
-    unsigned char ciphertext[256];  // To store encrypted data
-    int encrypted_length = RSA_public_encrypt(strlen(plaintext) + 1, (unsigned char *)plaintext, ciphertext, rsa_keypair, RSA_PKCS1_OAEP_PADDING);
+    // Generate a random key and IV (for demonstration purposes)
+    RAND_bytes(key, sizeof(key));
+    RAND_bytes(iv, sizeof(iv));
 
-    if (encrypted_length == -1) {
-        std::cerr << "Error encrypting data." << std::endl;
-        RSA_free(rsa_keypair);
-        return 1;
-    }
+    const char* plaintext = "Hello, AES!";
+    int plaintextLength = strlen(plaintext);
 
-    std::cout << "Encrypted Text (C++): ";
-    for (int i = 0; i < encrypted_length; i++) {
+    unsigned char ciphertext[128]; // Ensure it's large enough for your data
+    unsigned char decryptedtext[128]; // Ensure it's large enough for your data
+
+    // Encrypt
+    encrypt(reinterpret_cast<const unsigned char*>(plaintext), plaintextLength, key, iv, ciphertext);
+
+    // Decrypt
+    decrypt(ciphertext, plaintextLength, key, iv, decryptedtext);
+
+    // Output the results
+    std::cout << "Original Text: " << plaintext << std::endl;
+    std::cout << "Encrypted Text: ";
+    for (int i = 0; i < plaintextLength; i++) {
         std::cout << std::hex << (int)ciphertext[i];
     }
     std::cout << std::endl;
+    std::cout << "Decrypted Text: " << decryptedtext << std::endl;
 
-    // RSA Decryption
-    unsigned char decrypted_text[256];  // To store decrypted data
-    int decrypted_length = RSA_private_decrypt(encrypted_length, ciphertext, decrypted_text, rsa_keypair, RSA_PKCS1_OAEP_PADDING);
-
-    if (decrypted_length == -1) {
-        std::cerr << "Error decrypting data." << std::endl;
-        RSA_free(rsa_keypair);
-        return 1;
-    }
-
-    std::cout << "Decrypted Text (C++): " << decrypted_text << std::endl;
-
-    RSA_free(rsa_keypair);
     return 0;
 }
-
