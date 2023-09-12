@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1693981032 source:c:\users\lenovo\onedrive\desktop\7com1039-0109-2022---advanced-computer-science-masters-project\codes\cpp\aes\main.cpp
+1693985899 source:c:\users\lenovo\onedrive\desktop\7com1039-0109-2022---advanced-computer-science-masters-project\codes\cpp\aes\main.cpp
 	<iostream>
-	<openssl/rsa.h>
-	<openssl/pem.h>
+	<openssl/aes.h>
+	<openssl/rand.h>
 	<string.h>
 
 1690964446 c:\program files\openssl-win64\include\openssl\ec.h
@@ -353,6 +353,24 @@
 	<openssl/conf.h>
 
 1690964446 c:\program files\openssl-win64\include\openssl\pemerr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1690964446 c:\program files\openssl-win64\include\openssl\aes.h
+	<openssl/macros.h>
+	<openssl/opensslconf.h>
+	<stddef.h>
+
+1690964446 c:\program files\openssl-win64\include\openssl\rand.h
+	<openssl/macros.h>
+	<stdlib.h>
+	<openssl/types.h>
+	<openssl/e_os2.h>
+	<openssl/randerr.h>
+	<openssl/evp.h>
+
+1690964446 c:\program files\openssl-win64\include\openssl\randerr.h
 	<openssl/opensslconf.h>
 	<openssl/symhacks.h>
 	<openssl/cryptoerr_legacy.h>

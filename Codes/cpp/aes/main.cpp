@@ -25,7 +25,7 @@ int main() {
     RAND_bytes(key, sizeof(key));
     RAND_bytes(iv, sizeof(iv));
 
-    const char* plaintext = "Hello, AES!";
+    const char* plaintext = "Hello, Mahmud";
     int plaintextLength = strlen(plaintext);
 
     unsigned char ciphertext[128]; // Ensure it's large enough for your data

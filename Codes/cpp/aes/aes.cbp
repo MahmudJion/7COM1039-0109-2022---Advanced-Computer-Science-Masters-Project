@@ -31,7 +31,13 @@
 		<Compiler>
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
+			<Add directory="../../../../../../../../Program Files/OpenSSL-Win64/include" />
 		</Compiler>
+		<Linker>
+			<Add library="../../../../../../../../Program Files/OpenSSL-Win64/lib/libcrypto.lib" />
+			<Add library="../../../../../../../../Program Files/OpenSSL-Win64/lib/libssl.lib" />
+			<Add directory="../../../../../../../../Program Files/OpenSSL-Win64/lib" />
+		</Linker>
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
